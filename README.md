@@ -11,7 +11,7 @@ Hardware specifications are not available yet, however, the driver deployed for 
 
 Screenshots
 -----------
-![Movimento](screenshots/movimento.png? raw=true "Movimento")
+![Movimento](screenshots/movimento.png?raw=true "Movimento")
 
 Dependencies
 ------------
@@ -28,4 +28,4 @@ Copyright and License
 ---------------------
 Copyright (c) 2016 Danilo Peixoto. All rights reserved.
 
-Project developed under the [BSD-3-Clause license](http://raw.githubusercontent.com/danilopeixoto/movimento/master/LICENSE).
+Project developed under the [BSD-3-Clause license](LICENSE?raw=true "License").
