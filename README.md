@@ -10,8 +10,8 @@ Movimento was built to communicate with a specific hardware developed on the Ard
 Hardware specifications are not available yet, however, the driver deployed for Arduino is available and can be used in other projects.
 
 Screenshots
-----------
-![Movimento](http://raw.githubusercontent.com/danilopeixoto/movimento/master/screenshots/movimento.png)
+-----------
+![Movimento](screenshots/movimento.png? raw=true "Movimento")
 
 Dependencies
 ------------
